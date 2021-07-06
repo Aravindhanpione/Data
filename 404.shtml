@@ -45,7 +45,7 @@
         <!-- start header -->
         <header>
             <!-- start navigation -->
-            <nav class="navbar navbar-default bootsnav navbar-fixed-top header-light background-transparent nav-box-width white-link navbar-expand-lg">
+            <nav class="navbar navbar-default bootsnav navbar navbar-light bg-warning navbar-fixed-top header-light background-transparent nav-box-width white-link navbar-expand-lg">
                 <div class="container nav-header-container">
                     <!-- start logo -->
                     <div class="col-auto pl-lg-0">
@@ -62,8 +62,8 @@
                         <div class="navbar-collapse collapse justify-content-end" id="navbar-collapse-toggle-1">
                             <ul class="nav navbar-nav alt-font font-weight-700 " >
                                 <li><a href="index.html"  class="inner-link" style="font-size: 1.1em;">Pooja</a></li>
-                                <li><a href="#"  class="inner-link" style="font-size: 1.1em;">My Guru</a></li>
-                                <li><a href="#"  class="inner-link" style="font-size: 1.1em;">Bala Vidya</a></li>
+                                <li><a href="my_guru.html"  class="inner-link" style="font-size: 1.1em;">My Guru</a></li>
+                                <li><a href="bala_vidya.html"  class="inner-link" style="font-size: 1.1em;">Bala Vidya</a></li>
                                 <li><a href="#contact" class="inner-link" style="font-size: 1.1em;">Contact Us</a></li>
                             </ul>
                         </div>
